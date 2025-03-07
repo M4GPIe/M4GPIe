@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=M4GPIe&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=M4GPIe&layout=compact&theme=radical)
 <!--
 **M4GPIe/M4GPIe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
